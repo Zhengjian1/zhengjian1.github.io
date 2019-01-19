@@ -1,0 +1,2 @@
+body{height:100%;overflow:hidden;padding-bottom:env(safe-area-inset-bottom)}.App{display:-webkit-box;display:flex;flex-direction:column;height:100vh;width:100%;justify-content:center;align-items:center}.content{flex:1 1;overflow:scroll;-webkit-overflow-scrolling:touch}.footer{height:1.333333rem;background:red;width:100%}.item{display:-webkit-box;display:flex;justify-content:center;align-items:center;flex-direction:column}.item,img{width:100%}img{height:auto}.title{font-size:.426667rem;display:block}
+/*# sourceMappingURL=main.bacb3cbe.chunk.css.map */
